@@ -7,6 +7,7 @@ study
 ## Issue
 1. [Currently the push notification not working on mobile platform.](https://github.com/web-push-libs/web-push/issues/929)
     - If you have solution, please let me know.
+    - It seems it's not working only on my device...........
 2. Pusher notification is sending push notification on message sender, too.
 
 ## env
