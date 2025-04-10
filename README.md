@@ -2,7 +2,7 @@
 study
 
 ## Hosting
-[vercel](https://nextjs-15-pwa.vercel.app/)
+[vercel](https://nextjs-15-pwa-serwist-pusher-study.vercel.app/)
 
 ## Issue
 1. [Currently the push notification not working on mobile platform.](https://github.com/web-push-libs/web-push/issues/929)
