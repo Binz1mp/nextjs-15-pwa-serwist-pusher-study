@@ -126,7 +126,6 @@ export default function SendNotification() {
   
     // Assume you have a dynamic message – you might get this from state or an input field
     const dynamicMessage = "Your custom push message here!"; 
-  
     try {
       await fetch("/notification", {
         method: "POST",
