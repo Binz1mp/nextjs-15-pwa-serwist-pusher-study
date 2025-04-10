@@ -6,6 +6,7 @@ study
 
 ## Issue
 1. [Currently the push notification not working on mobile platform.](https://github.com/web-push-libs/web-push/issues/929)
+    - If you have solution, please let me know.
 2. Pusher notification is sending push notification on message sender, too.
 
 ## env
@@ -23,5 +24,6 @@ NEXT_PUBLIC_PUSHER_CLUSTER=
 ```
 
 ## Source
-[How to use Pusher in Next.js (App Router)](https://selcuk00.medium.com/how-to-use-pusher-in-next-js-app-router-1132b8ddf3b5)  
 [serwist/examples/next-web-push](https://github.com/serwist/serwist/tree/main/examples/next-web-push)
+
+[How to use Pusher in Next.js (App Router)](https://selcuk00.medium.com/how-to-use-pusher-in-next-js-app-router-1132b8ddf3b5)
